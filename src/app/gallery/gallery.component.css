@@ -1,0 +1,16 @@
+ul {
+    padding: 0;
+    width: 1200px;
+    margin: 20px auto;
+}
+
+li {
+    display: inline;
+}
+
+.tn {
+    margin: 6px;
+    border: 4 px solid black;
+    box-shadow: #400400 1px 1px 10px 1px;
+
+}
